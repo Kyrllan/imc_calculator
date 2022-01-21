@@ -1,6 +1,6 @@
 # calculadora_imc
 
-![Tela](https://i.imgur.com/hBl9dXX.png)
+![Tela](https://i.imgur.com/k0IzXp6.png)
 
 A new Flutter project.
 
