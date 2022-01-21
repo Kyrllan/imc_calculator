@@ -1,5 +1,7 @@
 # calculadora_imc
 
+![Tela](https://i.imgur.com/hBl9dXX.png)
+
 A new Flutter project.
 
 ## Getting Started
